@@ -63,8 +63,8 @@ I enjoy working with **sensors, microcontrollers, networking concepts, and backe
 ### GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriAravind26&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriAravind26&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sriaravind26&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriaravind26&theme=tokyonight" width="48%">
 </p>
 
 <p align="center">
