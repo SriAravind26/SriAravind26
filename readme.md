@@ -48,7 +48,6 @@ I enjoy working with **sensors, microcontrollers, networking concepts, and backe
 |--------|-------------|
 | **Cloud-Integrated IoT Data Analytics Platform** | Real-time pH, temperature, and gas sensor monitoring using MQTT, AWS RDS, Flask APIs, and Plotly dashboards. |
 | **NutriGo – Smart Agriculture (IoT)** | IoT-based monitoring system for fermented organic manure with a Flutter app for real-time insights to farmers. |
-| **MediLink – AI Healthcare Assistant** | AI-powered healthcare system with OCR, report analysis, skin disease prediction, and telemedicine support. |
 
 ---
 
@@ -64,12 +63,12 @@ I enjoy working with **sensors, microcontrollers, networking concepts, and backe
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriaravindk&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriaravindk&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=SriAravind26&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriAravind26&theme=tokyonight" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriaravindk&layout=compact&theme=tokyonight" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriAravind26&layout=compact&theme=tokyonight" width="50%">
 </p>
 
 ---
