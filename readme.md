@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I’m a Computer Science (IoT) undergraduate passionate about building **real-world, scalable systems** using  
 **IoT, cloud platforms, and data-driven architectures**.
@@ -12,15 +12,15 @@ I enjoy working with **sensors, microcontrollers, networking concepts, and backe
 
 ---
 
-### 🛠️ Tech Stack & Tools  
+### Tech Stack & Tools  
 
-#### 💻 Languages  
+#### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white)
 
-#### 🌐 IoT & Cloud  
+#### IoT & Cloud  
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
@@ -28,12 +28,12 @@ I enjoy working with **sensors, microcontrollers, networking concepts, and backe
 ![Azure IoT](https://img.shields.io/badge/Azure_IoT-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### 🖧 Networking & Systems  
+#### Networking & Systems  
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-#### 🔧 Other Tools  
+#### Other Tools  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -42,7 +42,7 @@ I enjoy working with **sensors, microcontrollers, networking concepts, and backe
 
 ---
 
-### 🚀 Featured Projects  
+### Featured Projects  
 
 | Project | Description |
 |--------|-------------|
@@ -51,29 +51,19 @@ I enjoy working with **sensors, microcontrollers, networking concepts, and backe
 
 ---
 
-### 🏆 Achievements & Certifications  
-- 🥇 **Best UI Design Award** – Colossus 2.0 Hackathon  
-- 🏆 **Winning Award** – Robofiesta 2k25 (SDG Hackathon)  
-- ☁️ **AWS Certified Solutions Architect – Associate (Prep)**  
-- 📜 **NPTEL Certifications** – Cloud Computing, Industry 4.0 & IIoT  
-- 🔧 **Azure IoT Developer Specialty** – Microsoft  
+### Achievements & Certifications  
+- **Best UI Design Award** – Colossus 2.0 Hackathon  
+- **Winning Award** – Robofiesta 2k25 (SDG Hackathon)  
+- **AWS Certified Solutions Architect – Associate (Prep)**  
+- **NPTEL Certifications** – Cloud Computing, Industry 4.0 & IIoT  
+- **Azure IoT Developer Specialty** – Microsoft  
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
+![SriAravind26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriAravind26&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriAravind26&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriAravind26&theme=tokyonight" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriAravind26&layout=compact&theme=tokyonight" width="50%">
-</p>
-
----
-
-### 📫 Connect with Me  
+### Connect with Me  
 <p align="center">
   <a href="mailto:sriaravind2610@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -85,4 +75,4 @@ I enjoy working with **sensors, microcontrollers, networking concepts, and backe
 
 ---
 
-⭐ *Building reliable systems by combining IoT, cloud, and software engineering.*
+*Building reliable systems by combining IoT, cloud, and software engineering.*
