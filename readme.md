@@ -61,7 +61,16 @@ I enjoy working with **sensors, microcontrollers, networking concepts, and backe
 ---
 
 ### GitHub Stats  
-![SriAravind26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriAravind26&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SriAravind26&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriAravind26&theme=tokyonight" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriAravind26&layout=compact&theme=tokyonight" width="50%">
+</p>
+
 
 ### Connect with Me  
 <p align="center">
