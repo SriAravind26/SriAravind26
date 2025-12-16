@@ -68,7 +68,7 @@ I enjoy working with **sensors, microcontrollers, networking concepts, and backe
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriAravind26&layout=compact&theme=tokyonight" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriaravind26&layout=compact&theme=tokyonight" width="50%">
 </p>
 
 
